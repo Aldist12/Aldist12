@@ -108,7 +108,7 @@ const aldist12: JujutsuSorcerer = {
 
 ### 🎯 **Web Development Mastery**
 - **[Evos-Esports-Replica](https://github.com/Aldist12/Evos-Esports)** - Esports domain expansion with HTML sorcery
-- **[Host-MyPorto](https://github.com/Aldist12/Host_PortofolioSaya)** - Personal portfolio showcasing cursed techniques
+- **[Host-CafeYummy](https://github.com/Aldist12/HostingCafeYummy.github.io )** - Cafe management system with admin/customer showcasing cursed techniques
 - **[Hosting-Gojek-Replica.github.io](https://github.com/Aldist12/PagesExercise2.github.io)** - Gojek management system with driver registration domains
 - **[HostingE-Commerce.github.io](https://github.com/Aldist12/HostingE-Commerce.github.io)** - E-commerce platform with cursed energy optimization
 
