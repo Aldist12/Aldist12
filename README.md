@@ -18,11 +18,17 @@
 const aldist12: JujutsuSorcerer = {
     name: "Aldi Septiyanto",
     grade: "Special Grade Developer",
-    cursedTechnique: ["Algorithm Manipulation", "Data Structure Mastery"],
+    cursedTechnique: [
+        "Algorithm Manipulation", 
+        "Data Structure Mastery",
+        "Cyber Security Arts",
+        "IoT Sorcery",
+        "Web Development Techniques"
+    ],
     domain: "Infinite Code Void",
     school: "Universitas Muhammadiyah Yogyakarta",
     studentId: "20210140002",
-    currentlyLearning: ["Advanced C#", "System Architecture"],
+    currentlyLearning: ["Advanced C#", "System Architecture", "Full-Stack Mastery"],
     philosophy: "Memberi penderitaan untuk memahami penderitaan",
     
     getStatus(): string {
@@ -39,16 +45,39 @@ const aldist12: JujutsuSorcerer = {
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🛠️ Domain Expansion Tools
+### 🌐 Frontend Sorcery
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend & Full-Stack Arsenal
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+
+### 🛠️ Development Environment
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 Special Grade Knowledge
-![Algorithms](https://img.shields.io/badge/Algorithms-8B5CF6?style=for-the-badge&logo=algorithm&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-7C3AED?style=for-the-badge&logo=data&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-6366F1?style=for-the-badge&logo=solution&logoColor=white)
+### 🔐 Special Grade Knowledge
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-8B5CF6?style=for-the-badge&logo=security&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-7C3AED?style=for-the-badge&logo=internetofthings&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-6366F1?style=for-the-badge&logo=algorithm&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-5B21B6?style=for-the-badge&logo=data&logoColor=white)
+
+### 🎮 Communication & Gaming
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Valorant](https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=riot-games&logoColor=white)
 
 </div>
 
@@ -91,11 +120,15 @@ const aldist12: JujutsuSorcerer = {
 ## 🎭 Current Mission
 
 ```yaml
-🎯 Main Quest: Mastering Advanced Programming Techniques
-🔮 Side Quest: Contributing to Open Source Projects  
-📚 Learning Path: System Design & Architecture
+🎯 Main Quest: Full-Stack Development & Cyber Security Mastery
+🔮 Side Quest: IoT Projects & Open Source Contributions  
+📚 Learning Path: Advanced Web Technologies & Security Architecture
 🏫 Base Location: Universitas Muhammadiyah Yogyakarta
 ⚡ Cursed Energy Level: Continuously Growing...
+🛡️ Special Abilities: Web Dev • IoT • Cyber Security • Algorithm Design
+🎮 Domain Expansion: Valorant Ranked Climb • Discord Community Building
+🌐 Frontend Arsenal: HTML/CSS/JS • React/Svelte • Tailwind/Bootstrap
+⚙️ Backend Mastery: Node.js • Next.js • PHP • cPanel Management
 ```
 
 ---
@@ -124,7 +157,17 @@ const aldist12: JujutsuSorcerer = {
 
 ---
 
-![Snake animation](https://github.com/Aldist12/Aldist12/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake Animation - External Link -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Alternative snake animation jika yang atas tidak jalan -->
+<!-- 
+<div align="center">
+  <img src="https://github.com/Aldist12/Aldist12/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+-->
 
 </div>
 
