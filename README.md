@@ -113,7 +113,7 @@ const aldist12: JujutsuSorcerer = {
 - **[HostingE-Commerce.github.io](https://github.com/Aldist12/HostingE-Commerce.github.io)** - E-commerce platform with cursed energy optimization
 
 ### 🔧 **Anime & Entertainment Projects** 
-- **[Daftar_Hokage_Konoha.github.io](https://github.com/Aldist12/Daftar_Hokage_Konoha.github.io)** - Hokage registry using shadow clone techniques
+- **[Daftar_Hokage_Konoha.github.io](https://github.com/Aldist12/Tabel_Daftar_Hokage_Konoha.github.io)** - Hokage registry using shadow clone techniques
 - **[Selamat datang di Dunia Anime.github.io](https://github.com/Aldist12/Welcome_Dunia_Anime.github.io)** - Gateway to anime dimensions
 
 ---
