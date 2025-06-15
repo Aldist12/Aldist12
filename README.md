@@ -2,11 +2,19 @@
 
 <div align="center">
   
+<!-- Jujutsu Kaisen Animated Banner -->
 ![Jujutsu Kaisen Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+<!-- Alternative animated banners -->
+<!-- 
+![Gojo Six Eyes](https://media.tenor.com/PWKJlK0aEQgAAAAd/gojo-satoru-jujutsu-kaisen.gif)
+![Coding Animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![Matrix Code Rain](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+-->
 
 ### 呪術師 | Cursed Technique Developer | Information Technology Student
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+Jujutsu+Tech+Domain;Developing+with+Cursed+Energy;Always+Learning+New+Techniques)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+Jujutsu+Tech+Domain;Developing+with+Cursed+Energy;Always+Learning+New+Techniques;Ready+to+Exorcise+Bugs+%F0%9F%90%9B%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
