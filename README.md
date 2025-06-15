@@ -107,7 +107,7 @@ const aldist12: JujutsuSorcerer = {
 ## 🌟 Featured Repositories (Cursed Technique Arsenal)
 
 ### 🎯 **Algorithm & Data Structure Mastery**
-- **[Practi](https://github.com/Aldist12/Practi)** - Algorithm & Structure Data training ground
+- **[Practi](https://github.com/Aldist12/Practice)** - Algorithm & Structure Data training ground
 - **[Exercise](https://github.com/Aldist12/Exercise)** - Daily coding exercises for cursed energy control
 - **[QuickShort](https://github.com/Aldist12/QuickShort)** - Lightning-fast sorting algorithms
 - **[SearchAlgorithm](https://github.com/Aldist12/SearchAlgorithm)** - Advanced search patterns
@@ -153,7 +153,7 @@ const aldist12: JujutsuSorcerer = {
 <!-- Animated Gojo GIF -->
 ![Gojo Domain Expansion](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-### 🎵 Currently Listening to: Jujutsu Kaisen OST 🎵
+### 🎵 Currently Listening to: I Wanna Be Yours 🎵
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
