@@ -107,9 +107,9 @@ const aldist12: JujutsuSorcerer = {
 ## 🌟 Featured Repositories (Cursed Technique Arsenal)
 
 ### 🎯 **Web Development Mastery**
-- **[Evos-Esports](https://github.com/Aldist12/Evos-Esports)** - Esports domain expansion with HTML sorcery
-- **[Host_PortofolioSaya](https://github.com/Aldist12/Host_PortofolioSaya)** - Personal portfolio showcasing cursed techniques
-- **[HostingCafeYummy.github.io](https://github.com/Aldist12/HostingCafeYummy.github.io)** - Cafe management system with admin/customer domains
+- **[Evos-Esports-Replica](https://github.com/Aldist12/Evos-Esports)** - Esports domain expansion with HTML sorcery
+- **[Host-MyPorto](https://github.com/Aldist12/Host_PortofolioSaya)** - Personal portfolio showcasing cursed techniques
+- **[Hosting-Gojek-Replica.github.io](https://github.com/Aldist12/PagesExercise2.github.io)** - Gojek management system with driver registration domains
 - **[HostingE-Commerce.github.io](https://github.com/Aldist12/HostingE-Commerce.github.io)** - E-commerce platform with cursed energy optimization
 
 ### 🔧 **Anime & Entertainment Projects** 
@@ -153,7 +153,7 @@ const aldist12: JujutsuSorcerer = {
 <!-- Animated Gojo GIF -->
 ![Gojo Domain Expansion](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-### 🎵 Currently Listening to: I Wanna BeYours 🎵
+### 🎵 Currently Listening to: I Wanna Be Yours 🎵
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
