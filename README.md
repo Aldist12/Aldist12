@@ -2,15 +2,7 @@
 
 <div align="center">
   
-<!-- Jujutsu Kaisen Animated Banner -->
 ![Jujutsu Kaisen Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-<!-- Alternative animated banners -->
-<!-- 
-![Gojo Six Eyes](https://media.tenor.com/PWKJlK0aEQgAAAAd/gojo-satoru-jujutsu-kaisen.gif)
-![Coding Animation](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-![Matrix Code Rain](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
--->
 
 ### 呪術師 | Cursed Technique Developer | Information Technology Student
 
@@ -95,33 +87,34 @@ const aldist12: JujutsuSorcerer = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aldist12&show_icons=true&theme=tokyonight&border_color=8B5CF6&title_color=8B5CF6&icon_color=8B5CF6)
+<!-- Simple GitHub Stats tanpa error prone features -->
+![Profile Views](https://komarev.com/ghpvc/?username=Aldist12&color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Aldist12?color=8B5CF6&style=for-the-badge&logo=github&label=Cursed+Energy+Followers)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldist12&layout=compact&theme=tokyonight&border_color=8B5CF6&title_color=8B5CF6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aldist12&theme=tokyonight&border=8B5CF6&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)
+<!-- Manual stats display -->
+### ⚡ Current Status
+```
+🔥 Active Repositories: 6+
+📊 Languages: C#, JavaScript, Python, PHP
+🎯 Current Focus: Full-Stack Development
+⭐ Featured Projects: Algorithm & Data Structure Practice
+```
 
 </div>
 
 ---
 
-## 🏆 Jujutsu Tech Achievements
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aldist12&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Aldist12?color=8B5CF6&style=for-the-badge&logo=github&label=Cursed+Energy+Followers)
-
-</div>
-
 ## 🌟 Featured Repositories (Cursed Technique Arsenal)
 
-<div align="center">
+### 🎯 **Algorithm & Data Structure Mastery**
+- **[Practi](https://github.com/Aldist12/Practi)** - Algorithm & Structure Data training ground
+- **[Exercise](https://github.com/Aldist12/Exercise)** - Daily coding exercises for cursed energy control
+- **[QuickShort](https://github.com/Aldist12/QuickShort)** - Lightning-fast sorting algorithms
+- **[SearchAlgorithm](https://github.com/Aldist12/SearchAlgorithm)** - Advanced search patterns
 
-[![Practi](https://github-readme-stats.vercel.app/api/pin/?username=Aldist12&repo=Practi&theme=tokyonight&border_color=8B5CF6&title_color=8B5CF6&icon_color=8B5CF6)](https://github.com/Aldist12/Practi)
-[![Exercise](https://github-readme-stats.vercel.app/api/pin/?username=Aldist12&repo=Exercise&theme=tokyonight&border_color=8B5CF6&title_color=8B5CF6&icon_color=8B5CF6)](https://github.com/Aldist12/Exercise)
-
-</div>
+### 🔧 **Development Projects** 
+- **[Exercise-2](https://github.com/Aldist12/Exercise-2)** - Advanced programming techniques
+- **[exercise2](https://github.com/Aldist12/exercise2)** - Parallel dimension training ground
 
 ---
 
@@ -157,25 +150,17 @@ const aldist12: JujutsuSorcerer = {
 
 ### 💜 "Domain Expansion: Infinite Void of Knowledge" 💜
 
-![Gojo Gif](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<!-- Animated Gojo GIF -->
+![Gojo Domain Expansion](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+### 🎵 Currently Listening to: Jujutsu Kaisen OST 🎵
+
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
 **⚔️ May your code be bug-free and your commits be meaningful ⚔️**
 
 *Remember: "Being weak is nothing to be ashamed of... staying weak is."*
-
----
-
-<!-- Snake Animation - External Link -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Alternative snake animation jika yang atas tidak jalan -->
-<!-- 
-<div align="center">
-  <img src="https://github.com/Aldist12/Aldist12/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
--->
 
 </div>
 
